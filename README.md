@@ -1,4 +1,4 @@
 Dayz-SelfBloodbag
 =================
 
-Dayz-SelfBloodbag-Script
+In progress i try to add 1 scrip per day                     
