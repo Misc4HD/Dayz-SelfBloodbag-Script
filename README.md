@@ -29,5 +29,3 @@ Dayz-SelfBloodbag
       _canDo = (!r_drag_sqf and !r_player_unconscious and !_onLadder);
       
 5.You cane find your fn_setfActions.sqf in your dayz_server.pbo
-
-<b>All scripts are runned on thise Dayz Epoch Server: 195.154.178.70:2332</b>
